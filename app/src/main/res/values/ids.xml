@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvName" type="id">tvName</item>
+    <item name="cardview" type="id">cardview</item>
+    <item name="tvPhone" type="id">tvPhone</item>
+    <item name="Button1" type="id">Button1</item>
+    <item name="ListView" type="id">ListView</item>
+</resources>
